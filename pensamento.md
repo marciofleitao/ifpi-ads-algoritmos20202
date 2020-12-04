@@ -6,4 +6,15 @@ A automação refere-se à mecanização das soluções permitindo as máquinas 
 A Análise refere-se à avaliação da viabilidade de se encontrar uma solução computacional ou à avaliação da adequação de uma solução. Nesta etapa é possível desenvolver as habilidades de argumentação crítica sobre problemas e suas soluções. 
 Portanto, o pensamento computacional colabora para o desenvolvimento de habilidades cada vez mais necessária nos profissionais do XXI, independente de sua área de atuação, como a capacidade de compreender, definir, modelar, comparar, solucionar, automatizar e analisar problemas, assim como desenvolver habilidades como pensamento crítico, criatividade, comunicação, colaboração, flexibilidade, adaptabilidade, etc. </div>
 
+
 ![Pensamento computacional](https://computacaonaescola.com.br/wp-content/uploads/2017/07/cropped-pensamentoComputacional-2.png)
+
+
+# Resumo do vídeo “Computational Thinking: What Is It? How Is It Used?”
+
+O vídeo demostra como resolver problemas complexos com o pensamento computacional. Inicialmente o pensamento computacional é conceituado como o processo envolvendo a formulação de um problema e expressando a solução de uma maneira em que o computador, uma pessoa ou máquina possa executar. 
+Ademais, o pensamento computacional possui quatro passos, a decomposição, o reconhecimento de padrões, a abstração e o algoritmo.
+A decomposição consiste em quebrar um problema complexo em partes menores de modo a facilitar a resolução e o gerenciamento.
+O reconhecimento de padrões permite encontrar similaridades ou padrões entre pequenos problemas decompostos.
+A abstração consiste na filtragem e classificação das informações, permitindo criar mecanismos de identificação de similaridades e diferenças entre problemas semelhantes para trabalhar uma solução.
+O algoritmo é um conjunto de instruções ordenadas para a resolução de um problema.
