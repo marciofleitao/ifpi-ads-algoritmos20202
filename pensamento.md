@@ -18,3 +18,5 @@ A decomposição consiste em quebrar um problema complexo em partes menores de m
 O reconhecimento de padrões permite encontrar similaridades ou padrões entre pequenos problemas decompostos.
 A abstração consiste na filtragem e classificação das informações, permitindo criar mecanismos de identificação de similaridades e diferenças entre problemas semelhantes para trabalhar uma solução.
 O algoritmo é um conjunto de instruções ordenadas para a resolução de um problema.
+
+![Passos do pensamento computacional](https://docplayer.com.br/docs-images/82/86764715/images/26-0.jpg)
