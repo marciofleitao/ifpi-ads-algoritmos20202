@@ -1,5 +1,6 @@
 def main():
     valor = int(input('Digite um valor: '))
+    valor_inicial = valor
 
     cem = valor//100
     valor = valor%100
@@ -21,6 +22,7 @@ def main():
 
     um = valor//1  
     
+    print(valor_inicial)
     print(f'{cem} nota(s) de R$ 100,00')
     print(f'{cinq} nota(s) de R$ 50,00')
     print(f'{vinte} nota(s) de R$ 20,00')
